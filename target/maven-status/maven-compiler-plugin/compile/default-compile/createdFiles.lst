@@ -1,0 +1,8 @@
+algo_trade\Main.class
+algo_trade\db_adapter\UserAdapter.class
+algo_trade\web_apis\Testing.class
+algo_trade\web_apis\YahooFetcher.class
+algo_trade\web_apis\HistoryFetcher.class
+algo_trade\authentication\Authenticator.class
+algo_trade\authentication\UserAuthenticator.class
+algo_trade\web_apis\WebActor.class

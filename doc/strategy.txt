@@ -1,0 +1,3 @@
+The strategy of the trader is as follows. This loop iterates once every day:
+
+    1 - Scan all active
